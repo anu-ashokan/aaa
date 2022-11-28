@@ -1,0 +1,84 @@
+body{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Abstract-music-wallpapers-HD.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: 0;
+}
+
+.heading {
+    width: 100%;
+    margin-top: 0px;
+}
+
+#note{
+    font-weight: bold;
+    color:black;
+}
+
+#header{
+    color:brown;
+    font-weight: bolder;
+    font-style:italic;
+}
+
+#play_button{
+    background-color: blue;
+    margin-top: 10px;
+}
+
+canvas {
+    margin-top: 60px;
+    position: center;
+}.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+body
+{
+  background-size: cover;	
+}
+  .div_speed
+  {
+  	float: left;
+  }
+  .div_speed_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #speed
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+  .div_volume
+  {
+  	float: right;	
+  }
+  .div_volume_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #volume
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+   .play_button
+  {
+  	width: 130px;
+  	font-size: 25px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+  }
